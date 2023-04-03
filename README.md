@@ -1,11 +1,14 @@
 Name: Darnell Chambers Gordon
+
 GitHub Username: YaBoiNellz
+
 GitHub Repository: https://github.com/YaBoiNellz/Assignment-4.git
+
 GitHub Pages Website: https://yaboinellz.github.io/my-react-app/
+
 Group Members: None
 
 Code May Give Issue when running on regular terminal the first time this command fixed the issue: export NODE_OPTIONS=--openssl-legacy-provider. There is a issue that was caused, it was caused by Node.js software when it upgraded from v16 to v18. It has nothing to nothing to do with my code. I tried many other solutions but the NODE_OPTIONS=--openssl-legacy-provider command was able to get it to work. once I added this command the code was working. The GitHub Pages Works just fine though the code is able to run on terminal after using the NODE_OPTIONS=--openssl-legacy-provider.
-
 
 I solved the assignment by modifying three files: App.js, Credit.js, and Debit.js
 App.js
